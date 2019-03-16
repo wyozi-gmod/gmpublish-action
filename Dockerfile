@@ -1,0 +1,2 @@
+FROM wyozi/gmpublish:latest
+
